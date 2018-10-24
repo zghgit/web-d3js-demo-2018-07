@@ -1,1 +1,15 @@
 齐宁分享的d3js页面，使用 Python 开发大数据，页面使用火狐浏览器打开
+
+上交所-大数据组-应用项目-模拟数据
+echo "# yingyoong-dashuju-2018" >> README.md
+第一次：
+git init
+git add text.txt
+git commit -m "first commit"
+git remote add origin https://yingyoong-dashuju-2018.git
+git push -u origin master
+
+ 之后新增文件：
+git add .
+git commit -m "备注"
+git push -u origin master
